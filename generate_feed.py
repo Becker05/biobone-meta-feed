@@ -90,6 +90,7 @@ def convert_item(item_xml):
     lines = [
         "    <item>",
         f"      <g:id>{escape_xml(id_)}</g:id>",
+        f"      <id>{escape_xml(id_)}</id>",
         f"      <g:title>{escape_xml(title)}</g:title>",
         f"      <g:description>{escape_xml(desc)}</g:description>",
         f"      <g:link>{escape_xml(link)}</g:link>",
