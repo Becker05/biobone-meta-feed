@@ -1,0 +1,41 @@
+name: Atualizar Feed Meta
+
+on:
+  schedule:
+    # Roda todo dia às 06:00 e 18:00 (horário de Brasília = UTC-3)
+    - cron: "0 9,21 * * *"
+  workflow_dispatch:
+    # Permite rodar manualmente pelo painel do GitHub
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Gerar feed XML
+        run: python generate_feed.py
+
+      - name: Verificar se o feed foi gerado
+        run: |
+          if [ ! -f docs/feed.xml ]; then
+            echo "ERRO: feed.xml não foi gerado"
+            exit 1
+          fi
+          echo "Feed gerado com $(grep -c '<item>' docs/feed.xml) itens"
+
+      - name: Commit e push do feed atualizado
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/feed.xml
+          # Só faz commit se houver mudanças
+          git diff --staged --quiet || git commit -m "chore: atualiza feed Meta [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+          git push
