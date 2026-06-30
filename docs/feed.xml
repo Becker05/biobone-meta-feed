@@ -4,9 +4,10 @@
     <title>Bio Bone - Catálogo de Produtos</title>
     <link>https://www.biobonebrazil.com.br</link>
     <description>Catálogo de produtos Bio Bone para Meta Ads</description>
-    <lastBuildDate>Tue, 30 Jun 2026 22:01:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 22:10:24 +0000</lastBuildDate>
     <item>
       <g:id>B01</g:id>
+      <id>B01</id>
       <g:title>Boné Exclusivo Biobone - Feito de plantas</g:title>
       <g:description>⚡ Boné Biobone — Edição Super Limitada Para quem carrega o lifestyle Biobone dentro e fora dos passeios. Design minimalista, cor marcante e a assinatura “feito de plantas” que traduz o DNA da marca em cada detalhe. Um acessório criado para quem vive o movimento com estilo, propósito e atitude. Produção em edição super limitada. Feito para poucos. ✔ Ajuste confortável e leve ✔ Visual clean e versátil ✔ Peça exclusiva da coleção Biobone Quando acabar, acabou. Biobone não é só para cães. É</g:description>
       <g:link>https://www.biobonebrazil.com.br/bone-01?utm_source=Site&amp;utm_medium=Facebook&amp;utm_campaign=Facebook</g:link>
@@ -20,6 +21,7 @@
     </item>
     <item>
       <g:id>MGC</g:id>
+      <id>MGC</id>
       <g:title>OSSÃO 2.0 RECHEAVEL CANA - MORDIDA FORTE</g:title>
       <g:description>Conheça a Biobone A Biobone é uma nova geração de produtos para cães: feita à base de plantas, biodegradável e 100% livre de plástico . Criamos uma alternativa real aos materiais sintéticos, unindo tecnologia, segurança e sustentabilidade para atender ao instinto natural de mastigação dos cães. Seu cão ama roer — e a Biobone foi feita exatamente pra isso. 🌱 Do que é feita? A Biobone é produzida através da fermentação do bagaço de cana-de-açúcar — um processo natural, semelhante ao da kombucha ou do pão de...</g:description>
       <g:link>https://www.biobonebrazil.com.br/biobone-ossao-mordidas-forte-fibra-de-cana-de-acucar?utm_source=Site&amp;utm_medium=Facebook&amp;utm_campaign=Facebook</g:link>
@@ -32,76 +34,23 @@
       <g:product_type>PORTE MÉDIO</g:product_type>
     </item>
     <item>
-      <g:id>APM</g:id>
-      <g:title>ASTERISCO PEQUENO MADEIRA - MORDIDA EXTRA FORTE</g:title>
+      <g:id>AGCA</g:id>
+      <id>AGCA</id>
+      <g:title>ASTERISCO GRANDE CARNE - MORDIDA EXTRA FORTE</g:title>
       <g:description>Conheça a Biobone A Biobone é uma nova geração de produtos para cães: feita à base de plantas, biodegradável e 100% livre de plástico . Criamos uma alternativa real aos materiais sintéticos, unindo tecnologia, segurança e sustentabilidade para atender ao instinto natural de mastigação dos cães. Seu cão ama roer — e a Biobone foi feita exatamente pra isso. 🌱 Do que é feita? A Biobone é produzida através da fermentação do bagaço de cana-de-açúcar — um processo natural, semelhante ao da kombucha ou do pão de...</g:description>
-      <g:link>https://www.biobonebrazil.com.br/asterisco-pequeno-madeira?utm_source=Site&amp;utm_medium=Facebook&amp;utm_campaign=Facebook</g:link>
-      <g:image_link>https://cdn.awsli.com.br/800x800/2765/2765814/produto/352074036/54-gpz4oeoe3w.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:price>79.00 BRL</g:price>
-      <g:sale_price>71.10 BRL</g:sale_price>
-      <g:brand>Zero Plastic</g:brand>
-      <g:product_type>PORTE PEQUENO</g:product_type>
-      <g:gtin>7898975377141</g:gtin>
-    </item>
-    <item>
-      <g:id>AGL</g:id>
-      <g:title>ASTERISCO GRANDE LARANJA - MORDIDA MODERADA</g:title>
-      <g:description>Conheça a Biobone A Biobone é uma nova geração de produtos para cães: feita à base de plantas, biodegradável e 100% livre de plástico . Criamos uma alternativa real aos materiais sintéticos, unindo tecnologia, segurança e sustentabilidade para atender ao instinto natural de mastigação dos cães. Seu cão ama roer e a Biobone foi feita exatamente pra isso. 🌱 Do que é feita? A Biobone é produzida através da fermentação do bagaço de cana-de-açúcar — um processo natural, semelhante ao da kombucha ou do pão de...</g:description>
-      <g:link>https://www.biobonebrazil.com.br/asterisco-grande-laranja?utm_source=Site&amp;utm_medium=Facebook&amp;utm_campaign=Facebook</g:link>
-      <g:image_link>https://cdn.awsli.com.br/800x800/2765/2765814/produto/352072526/46-1zwww249hr.png</g:image_link>
+      <g:link>https://www.biobonebrazil.com.br/asterisco-grande-carne-mordida-forte?utm_source=Site&amp;utm_medium=Facebook&amp;utm_campaign=Facebook</g:link>
+      <g:image_link>https://cdn.awsli.com.br/800x800/2765/2765814/produto/381917233/60-6ttovqvavi.png</g:image_link>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:price>118.00 BRL</g:price>
       <g:sale_price>106.20 BRL</g:sale_price>
       <g:brand>Zero Plastic</g:brand>
-      <g:product_type>PORTE GRANDE</g:product_type>
-      <g:gtin>7898975377158</g:gtin>
-    </item>
-    <item>
-      <g:id>AGM</g:id>
-      <g:title>ASTERISCO GRANDE MADEIRA - MORDIDA EXTRA FORTE</g:title>
-      <g:description>Conheça a Biobone A Biobone é uma nova geração de produtos para cães: feita à base de plantas, biodegradável e 100% livre de plástico . Criamos uma alternativa real aos materiais sintéticos, unindo tecnologia, segurança e sustentabilidade para atender ao instinto natural de mastigação dos cães. Seu cão ama roer — e a Biobone foi feita exatamente pra isso. 🌱 Do que é feita? A Biobone é produzida através da fermentação do bagaço de cana-de-açúcar — um processo natural, semelhante ao da kombucha ou do pão de...</g:description>
-      <g:link>https://www.biobonebrazil.com.br/asterisco-grande-madeira?utm_source=Site&amp;utm_medium=Facebook&amp;utm_campaign=Facebook</g:link>
-      <g:image_link>https://cdn.awsli.com.br/800x800/2765/2765814/produto/352073920/53-z1mb75t5qt.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:price>118.00 BRL</g:price>
-      <g:sale_price>106.20 BRL</g:sale_price>
-      <g:brand>Zero Plastic</g:brand>
-      <g:product_type>PORTE GRANDE</g:product_type>
-      <g:gtin>7898975377172</g:gtin>
-    </item>
-    <item>
-      <g:id>MPC</g:id>
-      <g:title>OSSINHO CANA - MORDIDA FORTE</g:title>
-      <g:description>Conheça a Biobone A Biobone é uma nova geração de produtos para cães: feita à base de plantas, biodegradável e 100% livre de plástico . Criamos uma alternativa real aos materiais sintéticos, unindo tecnologia, segurança e sustentabilidade para atender ao instinto natural de mastigação dos cães. Seu cão ama roer — e a Biobone foi feita exatamente pra isso. 🌱 Do que é feita? A Biobone é produzida através da fermentação do bagaço de cana-de-açúcar — um processo natural, semelhante ao da kombucha ou do pão de...</g:description>
-      <g:link>https://www.biobonebrazil.com.br/ossinho-pequeno-cana-de-acucar?utm_source=Site&amp;utm_medium=Facebook&amp;utm_campaign=Facebook</g:link>
-      <g:image_link>https://cdn.awsli.com.br/800x800/2765/2765814/produto/301602248/50-u6fiw8ykhj.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:price>45.00 BRL</g:price>
-      <g:sale_price>40.50 BRL</g:sale_price>
-      <g:brand>Zero Plastic</g:brand>
-      <g:product_type>PORTE PEQUENO</g:product_type>
-    </item>
-    <item>
-      <g:id>MGCAM</g:id>
-      <g:title>OSSÃO 2.0 RECHEAVEL CARNE - MORDIDA MODERADA</g:title>
-      <g:description>Conheça a Biobone A Biobone é uma nova geração de produtos para cães: feita à base de plantas, biodegradável e 100% livre de plástico . Criamos uma alternativa real aos materiais sintéticos, unindo tecnologia, segurança e sustentabilidade para atender ao instinto natural de mastigação dos cães. Seu cão ama roer — e a Biobone foi feita exatamente pra isso. 🌱 Do que é feita? A Biobone é produzida através da fermentação do bagaço de cana-de-açúcar — um processo natural, semelhante ao da kombucha ou do pão de...</g:description>
-      <g:link>https://www.biobonebrazil.com.br/ossao-grande-carne-mordida-moderada?utm_source=Site&amp;utm_medium=Facebook&amp;utm_campaign=Facebook</g:link>
-      <g:image_link>https://cdn.awsli.com.br/800x800/2765/2765814/produto/399750686/68-7hjdwlqgin.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:price>65.00 BRL</g:price>
-      <g:sale_price>58.50 BRL</g:sale_price>
-      <g:brand>Zero Plastic</g:brand>
-      <g:product_type>PORTE MÉDIO &gt; MORDIDA MODERADA</g:product_type>
-      <g:gtin>7898975377431</g:gtin>
+      <g:product_type>PORTE GRANDE &gt; MORDIDA EXTRA FORTE</g:product_type>
+      <g:gtin>7898975377295</g:gtin>
     </item>
     <item>
       <g:id>MPCA</g:id>
+      <id>MPCA</id>
       <g:title>OSSINHO CARNE - MORDIDA EXTRA FORTE</g:title>
       <g:description>Conheça a Biobone A Biobone é uma nova geração de produtos para cães: feita à base de plantas, biodegradável e 100% livre de plástico . Criamos uma alternativa real aos materiais sintéticos, unindo tecnologia, segurança e sustentabilidade para atender ao instinto natural de mastigação dos cães. Seu cão ama roer — e a Biobone foi feita exatamente pra isso. 🌱 Do que é feita? A Biobone é produzida através da fermentação do bagaço de cana-de-açúcar — um processo natural, semelhante ao da kombucha ou do pão de...</g:description>
       <g:link>https://www.biobonebrazil.com.br/ossinho-sabor-madeira-mordida-extra-forte?utm_source=Site&amp;utm_medium=Facebook&amp;utm_campaign=Facebook</g:link>
@@ -116,6 +65,7 @@
     </item>
     <item>
       <g:id>PMEX</g:id>
+      <id>PMEX</id>
       <g:title>PEIXE PORTE PEQUENO - MORDIDA EXTRA FORTE</g:title>
       <g:description>Conheça a Biobone A Biobone é uma nova geração de produtos para cães: feita à base de plantas, biodegradável e 100% livre de plástico . Criamos uma alternativa real aos materiais sintéticos, unindo tecnologia, segurança e sustentabilidade para atender ao instinto natural de mastigação dos cães. Seu cão ama roer — e a Biobone foi feita exatamente pra isso. 🌱 Do que é feita? A Biobone é produzida através da fermentação do bagaço de cana-de-açúcar — um processo natural, semelhante ao da kombucha ou do pão de...</g:description>
       <g:link>https://www.biobonebrazil.com.br/peixe-mordida-extra-forte?utm_source=Site&amp;utm_medium=Facebook&amp;utm_campaign=Facebook</g:link>
@@ -129,105 +79,8 @@
       <g:gtin>7898975377486</g:gtin>
     </item>
     <item>
-      <g:id>BSMC</g:id>
-      <g:title>BioSnacks - Maçã com Canela</g:title>
-      <g:description>Petisco Natural de Maçã com Canela – BioBone Saudável, nutritivo e feito com ingredientes que você reconhece! Nosso petisco de Maçã com Canela é uma opção 100% natural para quem busca oferecer ao pet uma alimentação mais consciente e equilibrada. Feito artesanalmente, à mão, com apenas 5 ingredientes : maçã, canela, fatinha de aveia, ovo e óleo de coco. Nada além disso. Sem conservantes. Sem corantes. Sem aditivos químicos. E claro, sem glúten. A conservação do produto acontece de forma natural, graças à...</g:description>
-      <g:link>https://www.biobonebrazil.com.br/biosnacks-maca-com-canela?utm_source=Site&amp;utm_medium=Facebook&amp;utm_campaign=Facebook</g:link>
-      <g:image_link>https://cdn.awsli.com.br/800x800/2765/2765814/produto/356143814/7898975377202-2-gnnsv57zy8.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:price>39.00 BRL</g:price>
-      <g:sale_price>35.10 BRL</g:sale_price>
-      <g:brand>Bio Bone</g:brand>
-      <g:product_type>PETISCOS</g:product_type>
-      <g:gtin>7898975377233</g:gtin>
-    </item>
-    <item>
-      <g:id>AGCA</g:id>
-      <g:title>ASTERISCO GRANDE CARNE - MORDIDA EXTRA FORTE</g:title>
-      <g:description>Conheça a Biobone A Biobone é uma nova geração de produtos para cães: feita à base de plantas, biodegradável e 100% livre de plástico . Criamos uma alternativa real aos materiais sintéticos, unindo tecnologia, segurança e sustentabilidade para atender ao instinto natural de mastigação dos cães. Seu cão ama roer — e a Biobone foi feita exatamente pra isso. 🌱 Do que é feita? A Biobone é produzida através da fermentação do bagaço de cana-de-açúcar — um processo natural, semelhante ao da kombucha ou do pão de...</g:description>
-      <g:link>https://www.biobonebrazil.com.br/asterisco-grande-carne-mordida-forte?utm_source=Site&amp;utm_medium=Facebook&amp;utm_campaign=Facebook</g:link>
-      <g:image_link>https://cdn.awsli.com.br/800x800/2765/2765814/produto/381917233/60-6ttovqvavi.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:price>118.00 BRL</g:price>
-      <g:sale_price>106.20 BRL</g:sale_price>
-      <g:brand>Zero Plastic</g:brand>
-      <g:product_type>PORTE GRANDE &gt; MORDIDA EXTRA FORTE</g:product_type>
-      <g:gtin>7898975377295</g:gtin>
-    </item>
-    <item>
-      <g:id>ARM</g:id>
-      <g:title>Argola Grande Madeira - Mordida Extra Forte</g:title>
-      <g:description>Conheça a Biobone A Biobone é uma nova geração de produtos para cães: feita à base de plantas, biodegradável e 100% livre de plástico . Criamos uma alternativa real aos materiais sintéticos, unindo tecnologia, segurança e sustentabilidade para atender ao instinto natural de mastigação dos cães. Seu cão ama roer — e a Biobone foi feita exatamente pra isso. 🌱 Do que é feita? A Biobone é produzida através da fermentação do bagaço de cana-de-açúcar — um processo natural, semelhante ao da kombucha ou do pão de...</g:description>
-      <g:link>https://www.biobonebrazil.com.br/argola-grande-madeira-mordida-extra-forte?utm_source=Site&amp;utm_medium=Facebook&amp;utm_campaign=Facebook</g:link>
-      <g:image_link>https://cdn.awsli.com.br/800x800/2765/2765814/produto/401557995/a9412f88600449cfaf714b28306e6c16-qa0duiflkx.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:price>139.00 BRL</g:price>
-      <g:sale_price>125.10 BRL</g:sale_price>
-      <g:brand>Bio Bone</g:brand>
-      <g:product_type>LANÇAMENTOS</g:product_type>
-      <g:gtin>7898975377516</g:gtin>
-    </item>
-    <item>
-      <g:id>OGC</g:id>
-      <g:title>GIGANTE CANA - MORDIDA FORTE</g:title>
-      <g:description>Conheça a Biobone A Biobone é uma nova geração de produtos para cães: feita à base de plantas, biodegradável e 100% livre de plástico . Criamos uma alternativa real aos materiais sintéticos, unindo tecnologia, segurança e sustentabilidade para atender ao instinto natural de mastigação dos cães. Seu cão ama roer — e a Biobone foi feita exatamente pra isso. 🌱 Do que é feita? A Biobone é produzida através da fermentação do bagaço de cana-de-açúcar — um processo natural, semelhante ao da kombucha ou do pão de...</g:description>
-      <g:link>https://www.biobonebrazil.com.br/ossao-gigante-cana-de-acucar?utm_source=Site&amp;utm_medium=Facebook&amp;utm_campaign=Facebook</g:link>
-      <g:image_link>https://cdn.awsli.com.br/800x800/2765/2765814/produto/339326139/51-k11h4zcn9v.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:price>149.00 BRL</g:price>
-      <g:sale_price>134.10 BRL</g:sale_price>
-      <g:brand>Zero Plastic</g:brand>
-      <g:product_type>PORTE GRANDE</g:product_type>
-      <g:gtin>7898975377196</g:gtin>
-    </item>
-    <item>
-      <g:id>AGC</g:id>
-      <g:title>ASTERISCO GRANDE CANA - MORDIDA FORTE</g:title>
-      <g:description>#descricao { font-family: &apos;Segoe UI&apos;, Arial, sans-serif; color: #2e2e2e; line-height: 1.75; font-size: 15px; } #descricao h2 { font-size: 28px; font-weight: 700; color: #1a1a1a; margin-bottom: 12px; border-left: 4px solid #4caf50; padding-left: 12px; } #descricao p { margin-bottom: 10px; color: #444; } #descricao ul { padding-left: 20px; margin-bottom: 12px; } #descricao ul li { margin-bottom: 4px; color: #444; list-style: disc; } #descricao hr { border: none; border-top: 1px solid #e0e0e0; margin: 24px 0;...</g:description>
-      <g:link>https://www.biobonebrazil.com.br/asterisco-grande-cana-de-acucar?utm_source=Site&amp;utm_medium=Facebook&amp;utm_campaign=Facebook</g:link>
-      <g:image_link>https://cdn.awsli.com.br/800x800/2765/2765814/produto/352072513/49-pnldzuhe2r.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:price>118.00 BRL</g:price>
-      <g:sale_price>106.20 BRL</g:sale_price>
-      <g:brand>Zero Plastic</g:brand>
-      <g:product_type>PORTE GRANDE</g:product_type>
-      <g:gtin>7898975377165</g:gtin>
-    </item>
-    <item>
-      <g:id>OGM</g:id>
-      <g:title>GIGANTE MADEIRA - MORDIDA EXTRA FORTE</g:title>
-      <g:description>Conheça a Biobone A Biobone é uma nova geração de produtos para cães: feita à base de plantas, biodegradável e 100% livre de plástico . Criamos uma alternativa real aos materiais sintéticos, unindo tecnologia, segurança e sustentabilidade para atender ao instinto natural de mastigação dos cães. Seu cão ama roer — e a Biobone foi feita exatamente pra isso. 🌱 Do que é feita? A Biobone é produzida através da fermentação do bagaço de cana-de-açúcar — um processo natural, semelhante ao da kombucha ou do pão de...</g:description>
-      <g:link>https://www.biobonebrazil.com.br/ossao-gigante-fibra-de-madeira?utm_source=Site&amp;utm_medium=Facebook&amp;utm_campaign=Facebook</g:link>
-      <g:image_link>https://cdn.awsli.com.br/800x800/2765/2765814/produto/339326601/55-b7bsr545r4.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:price>149.00 BRL</g:price>
-      <g:sale_price>134.10 BRL</g:sale_price>
-      <g:brand>Bio Bone</g:brand>
-      <g:product_type>PORTE GRANDE</g:product_type>
-      <g:gtin>78989753772002</g:gtin>
-    </item>
-    <item>
-      <g:id>ARC</g:id>
-      <g:title>Argola Grande Cana - Mordida Forte</g:title>
-      <g:description>Conheça a Biobone A Biobone é uma nova geração de produtos para cães: feita à base de plantas, biodegradável e 100% livre de plástico . Criamos uma alternativa real aos materiais sintéticos, unindo tecnologia, segurança e sustentabilidade para atender ao instinto natural de mastigação dos cães. Seu cão ama roer — e a Biobone foi feita exatamente pra isso. 🌱 Do que é feita? A Biobone é produzida através da fermentação do bagaço de cana-de-açúcar — um processo natural, semelhante ao da kombucha ou do pão de...</g:description>
-      <g:link>https://www.biobonebrazil.com.br/argola-grande-cana-mordida-forte?utm_source=Site&amp;utm_medium=Facebook&amp;utm_campaign=Facebook</g:link>
-      <g:image_link>https://cdn.awsli.com.br/800x800/2765/2765814/produto/401557992/6f7ddff66293408a8c0308f217ed3afd-v9hmiltmwb.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:price>139.00 BRL</g:price>
-      <g:sale_price>125.10 BRL</g:sale_price>
-      <g:brand>Zero Plastic</g:brand>
-      <g:product_type>LANÇAMENTOS</g:product_type>
-      <g:gtin>7898975377509</g:gtin>
-    </item>
-    <item>
       <g:id>BSAC</g:id>
+      <id>BSAC</id>
       <g:title>BioSnacks - Abóbora com Coco</g:title>
       <g:description>Petisco Natural de Abóbora com Coco – BioBone Saudável, nutritivo e feito com ingredientes que você reconhece! Nosso petisco de Abóbora com Coco é uma opção 100% natural para quem busca oferecer ao pet uma alimentação mais consciente e equilibrada. Feito artesanalmente, à mão, com apenas 6 ingredientes : banana nanica, alfarroba em pó, farinha de aveia sem glúten, ovo e óleo de coco. Nada além disso. Sem conservantes. Sem corantes. Sem aditivos químicos. E claro, sem glúten. A conservação do produto...</g:description>
       <g:link>https://www.biobonebrazil.com.br/biosnacks-abobora-com-coco?utm_source=Site&amp;utm_medium=Facebook&amp;utm_campaign=Facebook</g:link>
@@ -242,6 +95,7 @@
     </item>
     <item>
       <g:id>APC</g:id>
+      <id>APC</id>
       <g:title>ASTERISCO PEQUENO CANA - MORDIDA FORTE</g:title>
       <g:description>Conheça a Biobone A Biobone é uma nova geração de produtos para cães: feita à base de plantas, biodegradável e 100% livre de plástico . Criamos uma alternativa real aos materiais sintéticos, unindo tecnologia, segurança e sustentabilidade para atender ao instinto natural de mastigação dos cães. Seu cão ama roer — e a Biobone foi feita exatamente pra isso. 🌱 Do que é feita? A Biobone é produzida através da fermentação do bagaço de cana-de-açúcar — um processo natural, semelhante ao da kombucha ou do pão de...</g:description>
       <g:link>https://www.biobonebrazil.com.br/asterisco-pequeno-cana-de-acucar?utm_source=Site&amp;utm_medium=Facebook&amp;utm_campaign=Facebook</g:link>
@@ -255,7 +109,172 @@
       <g:gtin>7898975377134</g:gtin>
     </item>
     <item>
+      <g:id>ARCA</g:id>
+      <id>ARCA</id>
+      <g:title>Argola Grande Carne - Mordida Extra Forte</g:title>
+      <g:description>Conheça a Biobone A Biobone é uma nova geração de produtos para cães: feita à base de plantas, biodegradável e 100% livre de plástico . Criamos uma alternativa real aos materiais sintéticos, unindo tecnologia, segurança e sustentabilidade para atender ao instinto natural de mastigação dos cães. Seu cão ama roer — e a Biobone foi feita exatamente pra isso. 🌱 Do que é feita? A Biobone é produzida através da fermentação do bagaço de cana-de-açúcar — um processo natural, semelhante ao da kombucha ou do pão de...</g:description>
+      <g:link>https://www.biobonebrazil.com.br/argola-grande-carne-mordida-extra-forte?utm_source=Site&amp;utm_medium=Facebook&amp;utm_campaign=Facebook</g:link>
+      <g:image_link>https://cdn.awsli.com.br/800x800/2765/2765814/produto/401557990/b47f615843594a5e9648e31570ec5578-be7xtdw6ju.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:price>139.00 BRL</g:price>
+      <g:sale_price>125.10 BRL</g:sale_price>
+      <g:brand>Zero Plastic</g:brand>
+      <g:product_type>LANÇAMENTOS</g:product_type>
+      <g:gtin>7898975377523</g:gtin>
+    </item>
+    <item>
+      <g:id>APM</g:id>
+      <id>APM</id>
+      <g:title>ASTERISCO PEQUENO MADEIRA - MORDIDA EXTRA FORTE</g:title>
+      <g:description>Conheça a Biobone A Biobone é uma nova geração de produtos para cães: feita à base de plantas, biodegradável e 100% livre de plástico . Criamos uma alternativa real aos materiais sintéticos, unindo tecnologia, segurança e sustentabilidade para atender ao instinto natural de mastigação dos cães. Seu cão ama roer — e a Biobone foi feita exatamente pra isso. 🌱 Do que é feita? A Biobone é produzida através da fermentação do bagaço de cana-de-açúcar — um processo natural, semelhante ao da kombucha ou do pão de...</g:description>
+      <g:link>https://www.biobonebrazil.com.br/asterisco-pequeno-madeira?utm_source=Site&amp;utm_medium=Facebook&amp;utm_campaign=Facebook</g:link>
+      <g:image_link>https://cdn.awsli.com.br/800x800/2765/2765814/produto/352074036/54-gpz4oeoe3w.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:price>79.00 BRL</g:price>
+      <g:sale_price>71.10 BRL</g:sale_price>
+      <g:brand>Zero Plastic</g:brand>
+      <g:product_type>PORTE PEQUENO</g:product_type>
+      <g:gtin>7898975377141</g:gtin>
+    </item>
+    <item>
+      <g:id>AGM</g:id>
+      <id>AGM</id>
+      <g:title>ASTERISCO GRANDE MADEIRA - MORDIDA EXTRA FORTE</g:title>
+      <g:description>Conheça a Biobone A Biobone é uma nova geração de produtos para cães: feita à base de plantas, biodegradável e 100% livre de plástico . Criamos uma alternativa real aos materiais sintéticos, unindo tecnologia, segurança e sustentabilidade para atender ao instinto natural de mastigação dos cães. Seu cão ama roer — e a Biobone foi feita exatamente pra isso. 🌱 Do que é feita? A Biobone é produzida através da fermentação do bagaço de cana-de-açúcar — um processo natural, semelhante ao da kombucha ou do pão de...</g:description>
+      <g:link>https://www.biobonebrazil.com.br/asterisco-grande-madeira?utm_source=Site&amp;utm_medium=Facebook&amp;utm_campaign=Facebook</g:link>
+      <g:image_link>https://cdn.awsli.com.br/800x800/2765/2765814/produto/352073920/53-z1mb75t5qt.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:price>118.00 BRL</g:price>
+      <g:sale_price>106.20 BRL</g:sale_price>
+      <g:brand>Zero Plastic</g:brand>
+      <g:product_type>PORTE GRANDE</g:product_type>
+      <g:gtin>7898975377172</g:gtin>
+    </item>
+    <item>
+      <g:id>AGL</g:id>
+      <id>AGL</id>
+      <g:title>ASTERISCO GRANDE LARANJA - MORDIDA MODERADA</g:title>
+      <g:description>Conheça a Biobone A Biobone é uma nova geração de produtos para cães: feita à base de plantas, biodegradável e 100% livre de plástico . Criamos uma alternativa real aos materiais sintéticos, unindo tecnologia, segurança e sustentabilidade para atender ao instinto natural de mastigação dos cães. Seu cão ama roer e a Biobone foi feita exatamente pra isso. 🌱 Do que é feita? A Biobone é produzida através da fermentação do bagaço de cana-de-açúcar — um processo natural, semelhante ao da kombucha ou do pão de...</g:description>
+      <g:link>https://www.biobonebrazil.com.br/asterisco-grande-laranja?utm_source=Site&amp;utm_medium=Facebook&amp;utm_campaign=Facebook</g:link>
+      <g:image_link>https://cdn.awsli.com.br/800x800/2765/2765814/produto/352072526/46-1zwww249hr.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:price>118.00 BRL</g:price>
+      <g:sale_price>106.20 BRL</g:sale_price>
+      <g:brand>Zero Plastic</g:brand>
+      <g:product_type>PORTE GRANDE</g:product_type>
+      <g:gtin>7898975377158</g:gtin>
+    </item>
+    <item>
+      <g:id>MPC</g:id>
+      <id>MPC</id>
+      <g:title>OSSINHO CANA - MORDIDA FORTE</g:title>
+      <g:description>Conheça a Biobone A Biobone é uma nova geração de produtos para cães: feita à base de plantas, biodegradável e 100% livre de plástico . Criamos uma alternativa real aos materiais sintéticos, unindo tecnologia, segurança e sustentabilidade para atender ao instinto natural de mastigação dos cães. Seu cão ama roer — e a Biobone foi feita exatamente pra isso. 🌱 Do que é feita? A Biobone é produzida através da fermentação do bagaço de cana-de-açúcar — um processo natural, semelhante ao da kombucha ou do pão de...</g:description>
+      <g:link>https://www.biobonebrazil.com.br/ossinho-pequeno-cana-de-acucar?utm_source=Site&amp;utm_medium=Facebook&amp;utm_campaign=Facebook</g:link>
+      <g:image_link>https://cdn.awsli.com.br/800x800/2765/2765814/produto/301602248/50-u6fiw8ykhj.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:price>45.00 BRL</g:price>
+      <g:sale_price>40.50 BRL</g:sale_price>
+      <g:brand>Zero Plastic</g:brand>
+      <g:product_type>PORTE PEQUENO</g:product_type>
+    </item>
+    <item>
+      <g:id>OGM</g:id>
+      <id>OGM</id>
+      <g:title>GIGANTE MADEIRA - MORDIDA EXTRA FORTE</g:title>
+      <g:description>Conheça a Biobone A Biobone é uma nova geração de produtos para cães: feita à base de plantas, biodegradável e 100% livre de plástico . Criamos uma alternativa real aos materiais sintéticos, unindo tecnologia, segurança e sustentabilidade para atender ao instinto natural de mastigação dos cães. Seu cão ama roer — e a Biobone foi feita exatamente pra isso. 🌱 Do que é feita? A Biobone é produzida através da fermentação do bagaço de cana-de-açúcar — um processo natural, semelhante ao da kombucha ou do pão de...</g:description>
+      <g:link>https://www.biobonebrazil.com.br/ossao-gigante-fibra-de-madeira?utm_source=Site&amp;utm_medium=Facebook&amp;utm_campaign=Facebook</g:link>
+      <g:image_link>https://cdn.awsli.com.br/800x800/2765/2765814/produto/339326601/55-b7bsr545r4.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:price>149.00 BRL</g:price>
+      <g:sale_price>134.10 BRL</g:sale_price>
+      <g:brand>Bio Bone</g:brand>
+      <g:product_type>PORTE GRANDE</g:product_type>
+      <g:gtin>78989753772002</g:gtin>
+    </item>
+    <item>
+      <g:id>AGC</g:id>
+      <id>AGC</id>
+      <g:title>ASTERISCO GRANDE CANA - MORDIDA FORTE</g:title>
+      <g:description>#descricao { font-family: &apos;Segoe UI&apos;, Arial, sans-serif; color: #2e2e2e; line-height: 1.75; font-size: 15px; } #descricao h2 { font-size: 28px; font-weight: 700; color: #1a1a1a; margin-bottom: 12px; border-left: 4px solid #4caf50; padding-left: 12px; } #descricao p { margin-bottom: 10px; color: #444; } #descricao ul { padding-left: 20px; margin-bottom: 12px; } #descricao ul li { margin-bottom: 4px; color: #444; list-style: disc; } #descricao hr { border: none; border-top: 1px solid #e0e0e0; margin: 24px 0;...</g:description>
+      <g:link>https://www.biobonebrazil.com.br/asterisco-grande-cana-de-acucar?utm_source=Site&amp;utm_medium=Facebook&amp;utm_campaign=Facebook</g:link>
+      <g:image_link>https://cdn.awsli.com.br/800x800/2765/2765814/produto/352072513/49-pnldzuhe2r.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:price>118.00 BRL</g:price>
+      <g:sale_price>106.20 BRL</g:sale_price>
+      <g:brand>Zero Plastic</g:brand>
+      <g:product_type>PORTE GRANDE</g:product_type>
+      <g:gtin>7898975377165</g:gtin>
+    </item>
+    <item>
+      <g:id>OGC</g:id>
+      <id>OGC</id>
+      <g:title>GIGANTE CANA - MORDIDA FORTE</g:title>
+      <g:description>Conheça a Biobone A Biobone é uma nova geração de produtos para cães: feita à base de plantas, biodegradável e 100% livre de plástico . Criamos uma alternativa real aos materiais sintéticos, unindo tecnologia, segurança e sustentabilidade para atender ao instinto natural de mastigação dos cães. Seu cão ama roer — e a Biobone foi feita exatamente pra isso. 🌱 Do que é feita? A Biobone é produzida através da fermentação do bagaço de cana-de-açúcar — um processo natural, semelhante ao da kombucha ou do pão de...</g:description>
+      <g:link>https://www.biobonebrazil.com.br/ossao-gigante-cana-de-acucar?utm_source=Site&amp;utm_medium=Facebook&amp;utm_campaign=Facebook</g:link>
+      <g:image_link>https://cdn.awsli.com.br/800x800/2765/2765814/produto/339326139/51-k11h4zcn9v.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:price>149.00 BRL</g:price>
+      <g:sale_price>134.10 BRL</g:sale_price>
+      <g:brand>Zero Plastic</g:brand>
+      <g:product_type>PORTE GRANDE</g:product_type>
+      <g:gtin>7898975377196</g:gtin>
+    </item>
+    <item>
+      <g:id>BSMC</g:id>
+      <id>BSMC</id>
+      <g:title>BioSnacks - Maçã com Canela</g:title>
+      <g:description>Petisco Natural de Maçã com Canela – BioBone Saudável, nutritivo e feito com ingredientes que você reconhece! Nosso petisco de Maçã com Canela é uma opção 100% natural para quem busca oferecer ao pet uma alimentação mais consciente e equilibrada. Feito artesanalmente, à mão, com apenas 5 ingredientes : maçã, canela, fatinha de aveia, ovo e óleo de coco. Nada além disso. Sem conservantes. Sem corantes. Sem aditivos químicos. E claro, sem glúten. A conservação do produto acontece de forma natural, graças à...</g:description>
+      <g:link>https://www.biobonebrazil.com.br/biosnacks-maca-com-canela?utm_source=Site&amp;utm_medium=Facebook&amp;utm_campaign=Facebook</g:link>
+      <g:image_link>https://cdn.awsli.com.br/800x800/2765/2765814/produto/356143814/7898975377202-2-gnnsv57zy8.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:price>39.00 BRL</g:price>
+      <g:sale_price>35.10 BRL</g:sale_price>
+      <g:brand>Bio Bone</g:brand>
+      <g:product_type>PETISCOS</g:product_type>
+      <g:gtin>7898975377233</g:gtin>
+    </item>
+    <item>
+      <g:id>ARC</g:id>
+      <id>ARC</id>
+      <g:title>Argola Grande Cana - Mordida Forte</g:title>
+      <g:description>Conheça a Biobone A Biobone é uma nova geração de produtos para cães: feita à base de plantas, biodegradável e 100% livre de plástico . Criamos uma alternativa real aos materiais sintéticos, unindo tecnologia, segurança e sustentabilidade para atender ao instinto natural de mastigação dos cães. Seu cão ama roer — e a Biobone foi feita exatamente pra isso. 🌱 Do que é feita? A Biobone é produzida através da fermentação do bagaço de cana-de-açúcar — um processo natural, semelhante ao da kombucha ou do pão de...</g:description>
+      <g:link>https://www.biobonebrazil.com.br/argola-grande-cana-mordida-forte?utm_source=Site&amp;utm_medium=Facebook&amp;utm_campaign=Facebook</g:link>
+      <g:image_link>https://cdn.awsli.com.br/800x800/2765/2765814/produto/401557992/6f7ddff66293408a8c0308f217ed3afd-v9hmiltmwb.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:price>139.00 BRL</g:price>
+      <g:sale_price>125.10 BRL</g:sale_price>
+      <g:brand>Zero Plastic</g:brand>
+      <g:product_type>LANÇAMENTOS</g:product_type>
+      <g:gtin>7898975377509</g:gtin>
+    </item>
+    <item>
+      <g:id>ARM</g:id>
+      <id>ARM</id>
+      <g:title>Argola Grande Madeira - Mordida Extra Forte</g:title>
+      <g:description>Conheça a Biobone A Biobone é uma nova geração de produtos para cães: feita à base de plantas, biodegradável e 100% livre de plástico . Criamos uma alternativa real aos materiais sintéticos, unindo tecnologia, segurança e sustentabilidade para atender ao instinto natural de mastigação dos cães. Seu cão ama roer — e a Biobone foi feita exatamente pra isso. 🌱 Do que é feita? A Biobone é produzida através da fermentação do bagaço de cana-de-açúcar — um processo natural, semelhante ao da kombucha ou do pão de...</g:description>
+      <g:link>https://www.biobonebrazil.com.br/argola-grande-madeira-mordida-extra-forte?utm_source=Site&amp;utm_medium=Facebook&amp;utm_campaign=Facebook</g:link>
+      <g:image_link>https://cdn.awsli.com.br/800x800/2765/2765814/produto/401557995/a9412f88600449cfaf714b28306e6c16-qa0duiflkx.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:price>139.00 BRL</g:price>
+      <g:sale_price>125.10 BRL</g:sale_price>
+      <g:brand>Bio Bone</g:brand>
+      <g:product_type>LANÇAMENTOS</g:product_type>
+      <g:gtin>7898975377516</g:gtin>
+    </item>
+    <item>
       <g:id>OGCA</g:id>
+      <id>OGCA</id>
       <g:title>GIGANTE CARNE - MORDIDA EXTRA FORTE</g:title>
       <g:description>Conheça a Biobone A Biobone é uma nova geração de produtos para cães: feita à base de plantas, biodegradável e 100% livre de plástico . Criamos uma alternativa real aos materiais sintéticos, unindo tecnologia, segurança e sustentabilidade para atender ao instinto natural de mastigação dos cães. Seu cão ama roer — e a Biobone foi feita exatamente pra isso. 🌱 Do que é feita? A Biobone é produzida através da fermentação do bagaço de cana-de-açúcar — um processo natural, semelhante ao da kombucha ou do pão de...</g:description>
       <g:link>https://www.biobonebrazil.com.br/gigante-sabor-carne-mordida-extra-forte?utm_source=Site&amp;utm_medium=Facebook&amp;utm_campaign=Facebook</g:link>
@@ -270,6 +289,7 @@
     </item>
     <item>
       <g:id>BSEE</g:id>
+      <id>BSEE</id>
       <g:title>BioSnacks - Espinafre com Ervas Finas</g:title>
       <g:description>Petisco Natural de Espinafre com Ervas Finas – BioBone Saudável, nutritivo e feito com ingredientes que você reconhece! Nosso petisco de Espinafre com Ervas Finas é uma opção 100% natural para quem busca oferecer ao pet uma alimentação mais consciente e equilibrada. Feito artesanalmente, à mão, com apenas 6 ingredientes : espinafre, ovo, farinha de aveia, azeite, orégano e manjericão. Nada além disso. Sem conservantes. Sem corantes. Sem aditivos químicos. E claro, sem glúten. A conservação do produto...</g:description>
       <g:link>https://www.biobonebrazil.com.br/copia-de-biosnacks-banana-com-alfarroba-em-07042025-as-210911?utm_source=Site&amp;utm_medium=Facebook&amp;utm_campaign=Facebook</g:link>
@@ -284,6 +304,7 @@
     </item>
     <item>
       <g:id>PMF</g:id>
+      <id>PMF</id>
       <g:title>PEIXE PORTE PEQUENO - MORDIDA FORTE</g:title>
       <g:description>Conheça a Biobone A Biobone é uma nova geração de produtos para cães: feita à base de plantas, biodegradável e 100% livre de plástico . Criamos uma alternativa real aos materiais sintéticos, unindo tecnologia, segurança e sustentabilidade para atender ao instinto natural de mastigação dos cães. Seu cão ama roer — e a Biobone foi feita exatamente pra isso. 🌱 Do que é feita? A Biobone é produzida através da fermentação do bagaço de cana-de-açúcar — um processo natural, semelhante ao da kombucha ou do pão de...</g:description>
       <g:link>https://www.biobonebrazil.com.br/peixe-mordida-forte?utm_source=Site&amp;utm_medium=Facebook&amp;utm_campaign=Facebook</g:link>
@@ -298,6 +319,7 @@
     </item>
     <item>
       <g:id>MPCAF</g:id>
+      <id>MPCAF</id>
       <g:title>OSSINHO CARNE - MORDIDA FORTE</g:title>
       <g:description>Conheça a Biobone A Biobone é uma nova geração de produtos para cães: feita à base de plantas, biodegradável e 100% livre de plástico . Criamos uma alternativa real aos materiais sintéticos, unindo tecnologia, segurança e sustentabilidade para atender ao instinto natural de mastigação dos cães. Seu cão ama roer — e a Biobone foi feita exatamente pra isso. 🌱 Do que é feita? A Biobone é produzida através da fermentação do bagaço de cana-de-açúcar — um processo natural, semelhante ao da kombucha ou do pão de...</g:description>
       <g:link>https://www.biobonebrazil.com.br/ossinho-pequeno-carne-mordida-forte?utm_source=Site&amp;utm_medium=Facebook&amp;utm_campaign=Facebook</g:link>
@@ -311,49 +333,8 @@
       <g:gtin>7898975377424</g:gtin>
     </item>
     <item>
-      <g:id>APL</g:id>
-      <g:title>ASTERISCO PEQUENO LARANJA - MORDIDA MODERADA</g:title>
-      <g:description>Conheça a Biobone A Biobone é uma nova geração de produtos para cães: feita à base de plantas, biodegradável e 100% livre de plástico . Criamos uma alternativa real aos materiais sintéticos, unindo tecnologia, segurança e sustentabilidade para atender ao instinto natural de mastigação dos cães. Seu cão ama roer — e a Biobone foi feita exatamente pra isso. 🌱 Do que é feita? A Biobone é produzida através da fermentação do bagaço de cana-de-açúcar — um processo natural, semelhante ao da kombucha ou do pão de...</g:description>
-      <g:link>https://www.biobonebrazil.com.br/asterisco-pequeno-laranja?utm_source=Site&amp;utm_medium=Facebook&amp;utm_campaign=Facebook</g:link>
-      <g:image_link>https://cdn.awsli.com.br/800x800/2765/2765814/produto/352072543/45-uj696latdc.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:price>79.00 BRL</g:price>
-      <g:sale_price>71.10 BRL</g:sale_price>
-      <g:brand>Zero Plastic</g:brand>
-      <g:product_type>PORTE PEQUENO</g:product_type>
-      <g:gtin>7898975377127</g:gtin>
-    </item>
-    <item>
-      <g:id>ARCA</g:id>
-      <g:title>Argola Grande Carne - Mordida Extra Forte</g:title>
-      <g:description>Conheça a Biobone A Biobone é uma nova geração de produtos para cães: feita à base de plantas, biodegradável e 100% livre de plástico . Criamos uma alternativa real aos materiais sintéticos, unindo tecnologia, segurança e sustentabilidade para atender ao instinto natural de mastigação dos cães. Seu cão ama roer — e a Biobone foi feita exatamente pra isso. 🌱 Do que é feita? A Biobone é produzida através da fermentação do bagaço de cana-de-açúcar — um processo natural, semelhante ao da kombucha ou do pão de...</g:description>
-      <g:link>https://www.biobonebrazil.com.br/argola-grande-carne-mordida-extra-forte?utm_source=Site&amp;utm_medium=Facebook&amp;utm_campaign=Facebook</g:link>
-      <g:image_link>https://cdn.awsli.com.br/800x800/2765/2765814/produto/401557990/b47f615843594a5e9648e31570ec5578-be7xtdw6ju.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:price>139.00 BRL</g:price>
-      <g:sale_price>125.10 BRL</g:sale_price>
-      <g:brand>Zero Plastic</g:brand>
-      <g:product_type>LANÇAMENTOS</g:product_type>
-      <g:gtin>7898975377523</g:gtin>
-    </item>
-    <item>
-      <g:id>PMM</g:id>
-      <g:title>PEIXE PORTE PEQUENO - MORDIDA MODERADA</g:title>
-      <g:description>Conheça a Biobone A Biobone é uma nova geração de produtos para cães: feita à base de plantas, biodegradável e 100% livre de plástico . Criamos uma alternativa real aos materiais sintéticos, unindo tecnologia, segurança e sustentabilidade para atender ao instinto natural de mastigação dos cães. Seu cão ama roer — e a Biobone foi feita exatamente pra isso. 🌱 Do que é feita? A Biobone é produzida através da fermentação do bagaço de cana-de-açúcar — um processo natural, semelhante ao da kombucha ou do pão de...</g:description>
-      <g:link>https://www.biobonebrazil.com.br/peixe-mordida-moderada?utm_source=Site&amp;utm_medium=Facebook&amp;utm_campaign=Facebook</g:link>
-      <g:image_link>https://cdn.awsli.com.br/800x800/2765/2765814/produto/400477944/76-wwy0slihws.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:price>34.90 BRL</g:price>
-      <g:sale_price>31.41 BRL</g:sale_price>
-      <g:brand>Zero Plastic</g:brand>
-      <g:product_type>PORTE PEQUENO &gt; MORDIDA MODERADA</g:product_type>
-      <g:gtin>7898975377462</g:gtin>
-    </item>
-    <item>
       <g:id>MPCAM</g:id>
+      <id>MPCAM</id>
       <g:title>OSSINHO CARNE - MORDIDA MODERADA</g:title>
       <g:description>Conheça a Biobone A Biobone é uma nova geração de produtos para cães: feita à base de plantas, biodegradável e 100% livre de plástico . Criamos uma alternativa real aos materiais sintéticos, unindo tecnologia, segurança e sustentabilidade para atender ao instinto natural de mastigação dos cães. Seu cão ama roer — e a Biobone foi feita exatamente pra isso. 🌱 Do que é feita? A Biobone é produzida através da fermentação do bagaço de cana-de-açúcar — um processo natural, semelhante ao da kombucha ou do pão de...</g:description>
       <g:link>https://www.biobonebrazil.com.br/ossinho-pequeno-carne-mordida-moderada?utm_source=Site&amp;utm_medium=Facebook&amp;utm_campaign=Facebook</g:link>
@@ -367,63 +348,23 @@
       <g:gtin>7898975377417</g:gtin>
     </item>
     <item>
-      <g:id>APCAA</g:id>
-      <g:title>ASTERISCO PEQUENO CARNE - MORDIDA EXTRA FORTE</g:title>
+      <g:id>PMM</g:id>
+      <id>PMM</id>
+      <g:title>PEIXE PORTE PEQUENO - MORDIDA MODERADA</g:title>
       <g:description>Conheça a Biobone A Biobone é uma nova geração de produtos para cães: feita à base de plantas, biodegradável e 100% livre de plástico . Criamos uma alternativa real aos materiais sintéticos, unindo tecnologia, segurança e sustentabilidade para atender ao instinto natural de mastigação dos cães. Seu cão ama roer — e a Biobone foi feita exatamente pra isso. 🌱 Do que é feita? A Biobone é produzida através da fermentação do bagaço de cana-de-açúcar — um processo natural, semelhante ao da kombucha ou do pão de...</g:description>
-      <g:link>https://www.biobonebrazil.com.br/asterisco-pequeno-sabor-carne-mordida-extra-forte?utm_source=Site&amp;utm_medium=Facebook&amp;utm_campaign=Facebook</g:link>
-      <g:image_link>https://cdn.awsli.com.br/800x800/2765/2765814/produto/390809629/61-6wzdy5ttw9.png</g:image_link>
+      <g:link>https://www.biobonebrazil.com.br/peixe-mordida-moderada?utm_source=Site&amp;utm_medium=Facebook&amp;utm_campaign=Facebook</g:link>
+      <g:image_link>https://cdn.awsli.com.br/800x800/2765/2765814/produto/400477944/76-wwy0slihws.png</g:image_link>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
-      <g:price>79.00 BRL</g:price>
-      <g:sale_price>71.10 BRL</g:sale_price>
+      <g:price>34.90 BRL</g:price>
+      <g:sale_price>31.41 BRL</g:sale_price>
       <g:brand>Zero Plastic</g:brand>
-      <g:product_type>PORTE PEQUENO &gt; MORDIDA EXTRA FORTE</g:product_type>
-      <g:gtin>7898975377288</g:gtin>
-    </item>
-    <item>
-      <g:id>MGCAF</g:id>
-      <g:title>OSSÃO 2.0 RECHEAVEL CARNE - MORDIDA FORTE</g:title>
-      <g:description>Conheça a Biobone A Biobone é uma nova geração de produtos para cães: feita à base de plantas, biodegradável e 100% livre de plástico . Criamos uma alternativa real aos materiais sintéticos, unindo tecnologia, segurança e sustentabilidade para atender ao instinto natural de mastigação dos cães. Seu cão ama roer — e a Biobone foi feita exatamente pra isso. 🌱 Do que é feita? A Biobone é produzida através da fermentação do bagaço de cana-de-açúcar — um processo natural, semelhante ao da kombucha ou do pão de...</g:description>
-      <g:link>https://www.biobonebrazil.com.br/ossao-grande-carne-mordida-forte?utm_source=Site&amp;utm_medium=Facebook&amp;utm_campaign=Facebook</g:link>
-      <g:image_link>https://cdn.awsli.com.br/800x800/2765/2765814/produto/399775074/66-wdh0ywggqm.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:price>65.00 BRL</g:price>
-      <g:sale_price>58.50 BRL</g:sale_price>
-      <g:brand>Zero Plastic</g:brand>
-      <g:product_type>PORTE MÉDIO &gt; MORDIDA FORTE</g:product_type>
-      <g:gtin>7898975377448</g:gtin>
-    </item>
-    <item>
-      <g:id>OGL</g:id>
-      <g:title>GIGANTE LARANJA - MORDIDA MODERADA</g:title>
-      <g:description>Conheça a Biobone A Biobone é uma nova geração de produtos para cães: feita à base de plantas, biodegradável e 100% livre de plástico . Criamos uma alternativa real aos materiais sintéticos, unindo tecnologia, segurança e sustentabilidade para atender ao instinto natural de mastigação dos cães. Seu cão ama roer — e a Biobone foi feita exatamente pra isso. 🌱 Do que é feita? A Biobone é produzida através da fermentação do bagaço de cana-de-açúcar — um processo natural, semelhante ao da kombucha ou do pão de...</g:description>
-      <g:link>https://www.biobonebrazil.com.br/ossao-gigante-laranja?utm_source=Site&amp;utm_medium=Facebook&amp;utm_campaign=Facebook</g:link>
-      <g:image_link>https://cdn.awsli.com.br/800x800/2765/2765814/produto/339323800/44-tnzjz7wary.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:price>149.00 BRL</g:price>
-      <g:sale_price>134.10 BRL</g:sale_price>
-      <g:brand>Bio Bone</g:brand>
-      <g:product_type>PORTE GRANDE</g:product_type>
-      <g:gtin>7898975377189</g:gtin>
-    </item>
-    <item>
-      <g:id>ARL</g:id>
-      <g:title>Argola Grande Laranja - Mordida Moderada</g:title>
-      <g:description>Conheça a Biobone A Biobone é uma nova geração de produtos para cães: feita à base de plantas, biodegradável e 100% livre de plástico . Criamos uma alternativa real aos materiais sintéticos, unindo tecnologia, segurança e sustentabilidade para atender ao instinto natural de mastigação dos cães. Seu cão ama roer — e a Biobone foi feita exatamente pra isso. 🌱 Do que é feita? A Biobone é produzida através da fermentação do bagaço de cana-de-açúcar — um processo natural, semelhante ao da kombucha ou do pão de...</g:description>
-      <g:link>https://www.biobonebrazil.com.br/argola-grande-laranja-mordida-moderada?utm_source=Site&amp;utm_medium=Facebook&amp;utm_campaign=Facebook</g:link>
-      <g:image_link>https://cdn.awsli.com.br/800x800/2765/2765814/produto/401557994/b9172fbe116d40da912ea37fc8be6f8a-a9a2xnqaog.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:price>139.00 BRL</g:price>
-      <g:sale_price>125.10 BRL</g:sale_price>
-      <g:brand>Zero Plastic</g:brand>
-      <g:product_type>LANÇAMENTOS</g:product_type>
-      <g:gtin>7898975377493</g:gtin>
+      <g:product_type>PORTE PEQUENO &gt; MORDIDA MODERADA</g:product_type>
+      <g:gtin>7898975377462</g:gtin>
     </item>
     <item>
       <g:id>BSBA</g:id>
+      <id>BSBA</id>
       <g:title>BioSnacks - Banana com Alfarroba</g:title>
       <g:description>Petisco Natural de Banana e Alfarroba – BioBone Saudável, nutritivo e feito com ingredientes que você reconhece! Nosso petisco de banana e alfarroba é uma opção 100% natural para quem busca oferecer ao pet uma alimentação mais consciente e equilibrada. Feito artesanalmente, à mão, com apenas 5 ingredientes : banana nanica, alfarroba em pó, farinha de aveia sem glúten, ovo e óleo de coco. Nada além disso. Sem conservantes. Sem corantes. Sem aditivos químicos. E claro, sem glúten. A conservação do produto...</g:description>
       <g:link>https://www.biobonebrazil.com.br/biosnacks-banana-com-alfarroba?utm_source=Site&amp;utm_medium=Facebook&amp;utm_campaign=Facebook</g:link>
@@ -438,6 +379,7 @@
     </item>
     <item>
       <g:id>MGCA</g:id>
+      <id>MGCA</id>
       <g:title>OSSÃO 2.0 RECHEAVEL CARNE - MORDIDA EXTRA FORTE</g:title>
       <g:description>Conheça a Biobone A Biobone é uma nova geração de produtos para cães: feita à base de plantas, biodegradável e 100% livre de plástico . Criamos uma alternativa real aos materiais sintéticos, unindo tecnologia, segurança e sustentabilidade para atender ao instinto natural de mastigação dos cães. Seu cão ama roer — e a Biobone foi feita exatamente pra isso. 🌱 Do que é feita? A Biobone é produzida através da fermentação do bagaço de cana-de-açúcar — um processo natural, semelhante ao da kombucha ou do pão de...</g:description>
       <g:link>https://www.biobonebrazil.com.br/ossao-sabor-carne-mordida-extra-forte?utm_source=Site&amp;utm_medium=Facebook&amp;utm_campaign=Facebook</g:link>
@@ -449,6 +391,96 @@
       <g:brand>Zero Plastic</g:brand>
       <g:product_type>PORTE MÉDIO &gt; MORDIDA EXTRA FORTE</g:product_type>
       <g:gtin>7898975377332</g:gtin>
+    </item>
+    <item>
+      <g:id>OGL</g:id>
+      <id>OGL</id>
+      <g:title>GIGANTE LARANJA - MORDIDA MODERADA</g:title>
+      <g:description>Conheça a Biobone A Biobone é uma nova geração de produtos para cães: feita à base de plantas, biodegradável e 100% livre de plástico . Criamos uma alternativa real aos materiais sintéticos, unindo tecnologia, segurança e sustentabilidade para atender ao instinto natural de mastigação dos cães. Seu cão ama roer — e a Biobone foi feita exatamente pra isso. 🌱 Do que é feita? A Biobone é produzida através da fermentação do bagaço de cana-de-açúcar — um processo natural, semelhante ao da kombucha ou do pão de...</g:description>
+      <g:link>https://www.biobonebrazil.com.br/ossao-gigante-laranja?utm_source=Site&amp;utm_medium=Facebook&amp;utm_campaign=Facebook</g:link>
+      <g:image_link>https://cdn.awsli.com.br/800x800/2765/2765814/produto/339323800/44-tnzjz7wary.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:price>149.00 BRL</g:price>
+      <g:sale_price>134.10 BRL</g:sale_price>
+      <g:brand>Bio Bone</g:brand>
+      <g:product_type>PORTE GRANDE</g:product_type>
+      <g:gtin>7898975377189</g:gtin>
+    </item>
+    <item>
+      <g:id>ARL</g:id>
+      <id>ARL</id>
+      <g:title>Argola Grande Laranja - Mordida Moderada</g:title>
+      <g:description>Conheça a Biobone A Biobone é uma nova geração de produtos para cães: feita à base de plantas, biodegradável e 100% livre de plástico . Criamos uma alternativa real aos materiais sintéticos, unindo tecnologia, segurança e sustentabilidade para atender ao instinto natural de mastigação dos cães. Seu cão ama roer — e a Biobone foi feita exatamente pra isso. 🌱 Do que é feita? A Biobone é produzida através da fermentação do bagaço de cana-de-açúcar — um processo natural, semelhante ao da kombucha ou do pão de...</g:description>
+      <g:link>https://www.biobonebrazil.com.br/argola-grande-laranja-mordida-moderada?utm_source=Site&amp;utm_medium=Facebook&amp;utm_campaign=Facebook</g:link>
+      <g:image_link>https://cdn.awsli.com.br/800x800/2765/2765814/produto/401557994/b9172fbe116d40da912ea37fc8be6f8a-a9a2xnqaog.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:price>139.00 BRL</g:price>
+      <g:sale_price>125.10 BRL</g:sale_price>
+      <g:brand>Zero Plastic</g:brand>
+      <g:product_type>LANÇAMENTOS</g:product_type>
+      <g:gtin>7898975377493</g:gtin>
+    </item>
+    <item>
+      <g:id>APCAA</g:id>
+      <id>APCAA</id>
+      <g:title>ASTERISCO PEQUENO CARNE - MORDIDA EXTRA FORTE</g:title>
+      <g:description>Conheça a Biobone A Biobone é uma nova geração de produtos para cães: feita à base de plantas, biodegradável e 100% livre de plástico . Criamos uma alternativa real aos materiais sintéticos, unindo tecnologia, segurança e sustentabilidade para atender ao instinto natural de mastigação dos cães. Seu cão ama roer — e a Biobone foi feita exatamente pra isso. 🌱 Do que é feita? A Biobone é produzida através da fermentação do bagaço de cana-de-açúcar — um processo natural, semelhante ao da kombucha ou do pão de...</g:description>
+      <g:link>https://www.biobonebrazil.com.br/asterisco-pequeno-sabor-carne-mordida-extra-forte?utm_source=Site&amp;utm_medium=Facebook&amp;utm_campaign=Facebook</g:link>
+      <g:image_link>https://cdn.awsli.com.br/800x800/2765/2765814/produto/390809629/61-6wzdy5ttw9.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:price>79.00 BRL</g:price>
+      <g:sale_price>71.10 BRL</g:sale_price>
+      <g:brand>Zero Plastic</g:brand>
+      <g:product_type>PORTE PEQUENO &gt; MORDIDA EXTRA FORTE</g:product_type>
+      <g:gtin>7898975377288</g:gtin>
+    </item>
+    <item>
+      <g:id>MGCAF</g:id>
+      <id>MGCAF</id>
+      <g:title>OSSÃO 2.0 RECHEAVEL CARNE - MORDIDA FORTE</g:title>
+      <g:description>Conheça a Biobone A Biobone é uma nova geração de produtos para cães: feita à base de plantas, biodegradável e 100% livre de plástico . Criamos uma alternativa real aos materiais sintéticos, unindo tecnologia, segurança e sustentabilidade para atender ao instinto natural de mastigação dos cães. Seu cão ama roer — e a Biobone foi feita exatamente pra isso. 🌱 Do que é feita? A Biobone é produzida através da fermentação do bagaço de cana-de-açúcar — um processo natural, semelhante ao da kombucha ou do pão de...</g:description>
+      <g:link>https://www.biobonebrazil.com.br/ossao-grande-carne-mordida-forte?utm_source=Site&amp;utm_medium=Facebook&amp;utm_campaign=Facebook</g:link>
+      <g:image_link>https://cdn.awsli.com.br/800x800/2765/2765814/produto/399775074/66-wdh0ywggqm.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:price>65.00 BRL</g:price>
+      <g:sale_price>58.50 BRL</g:sale_price>
+      <g:brand>Zero Plastic</g:brand>
+      <g:product_type>PORTE MÉDIO &gt; MORDIDA FORTE</g:product_type>
+      <g:gtin>7898975377448</g:gtin>
+    </item>
+    <item>
+      <g:id>APL</g:id>
+      <id>APL</id>
+      <g:title>ASTERISCO PEQUENO LARANJA - MORDIDA MODERADA</g:title>
+      <g:description>Conheça a Biobone A Biobone é uma nova geração de produtos para cães: feita à base de plantas, biodegradável e 100% livre de plástico . Criamos uma alternativa real aos materiais sintéticos, unindo tecnologia, segurança e sustentabilidade para atender ao instinto natural de mastigação dos cães. Seu cão ama roer — e a Biobone foi feita exatamente pra isso. 🌱 Do que é feita? A Biobone é produzida através da fermentação do bagaço de cana-de-açúcar — um processo natural, semelhante ao da kombucha ou do pão de...</g:description>
+      <g:link>https://www.biobonebrazil.com.br/asterisco-pequeno-laranja?utm_source=Site&amp;utm_medium=Facebook&amp;utm_campaign=Facebook</g:link>
+      <g:image_link>https://cdn.awsli.com.br/800x800/2765/2765814/produto/352072543/45-uj696latdc.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:price>79.00 BRL</g:price>
+      <g:sale_price>71.10 BRL</g:sale_price>
+      <g:brand>Zero Plastic</g:brand>
+      <g:product_type>PORTE PEQUENO</g:product_type>
+      <g:gtin>7898975377127</g:gtin>
+    </item>
+    <item>
+      <g:id>MGCAM</g:id>
+      <id>MGCAM</id>
+      <g:title>OSSÃO 2.0 RECHEAVEL CARNE - MORDIDA MODERADA</g:title>
+      <g:description>Conheça a Biobone A Biobone é uma nova geração de produtos para cães: feita à base de plantas, biodegradável e 100% livre de plástico . Criamos uma alternativa real aos materiais sintéticos, unindo tecnologia, segurança e sustentabilidade para atender ao instinto natural de mastigação dos cães. Seu cão ama roer — e a Biobone foi feita exatamente pra isso. 🌱 Do que é feita? A Biobone é produzida através da fermentação do bagaço de cana-de-açúcar — um processo natural, semelhante ao da kombucha ou do pão de...</g:description>
+      <g:link>https://www.biobonebrazil.com.br/ossao-grande-carne-mordida-moderada?utm_source=Site&amp;utm_medium=Facebook&amp;utm_campaign=Facebook</g:link>
+      <g:image_link>https://cdn.awsli.com.br/800x800/2765/2765814/produto/399750686/68-7hjdwlqgin.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:price>65.00 BRL</g:price>
+      <g:sale_price>58.50 BRL</g:sale_price>
+      <g:brand>Zero Plastic</g:brand>
+      <g:product_type>PORTE MÉDIO &gt; MORDIDA MODERADA</g:product_type>
+      <g:gtin>7898975377431</g:gtin>
     </item>
   </channel>
 </rss>
